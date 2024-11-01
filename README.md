@@ -8,6 +8,7 @@ This application helps verify eligibility for YouTube Premium Student accounts b
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
+- [Antivirus Notice](#antivirus-notice)
 - [License](#license)
 
 ## Features
@@ -55,6 +56,15 @@ All necessary dependencies are included within the application, so you don't nee
 ## Configuration
 
 This application includes Poppler binaries for PDF rendering and flattening, so no additional configuration is required on your system.
+
+## Antivirus Notice
+
+In some cases, the application may be flagged by antivirus software. This is a common occurrence with software built from Python executables, as some antivirus programs may incorrectly classify them. **If you trust this application**, you may need to add it to your antivirus software's list of allowed or whitelisted applications to prevent it from being flagged or blocked.
+
+Steps to whitelist:
+1. Go to your antivirus software's settings.
+2. Locate the section for exclusions, exceptions, or whitelisting.
+3. Add the path to the downloaded `.exe` file.
 
 ## License
 
