@@ -69,6 +69,7 @@ Steps to whitelist:
 ## License
 
 This project is proprietary software by MonsterZeroX. Use of this software requires a valid license and is subject to specific usage limitations. See the [LICENSE](LICENSE) file for full details.
+For licensing inquiries or to purchase activation keys, please contact [MonsterZeroX](https://t.me/MonsterZeroX).
 
 ---
 
